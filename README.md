@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Embedded Sysytem Projects 
+- 🔭 I’m currently working on Embedded System Projects 
 - 🌱 I’m currently learning C++ 
   <!-- - 👯 I’m looking to collaborate on ... --!>
 - 🤔 I’m looking for help with recommendations for projects and resources to get me settled into Programming and Open Source Contribution
